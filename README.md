@@ -7,7 +7,7 @@
 
 Kuvaajaa lukemalla findMode:n aikakompleksisuusluokka vaikuttaisi olevan $O(n^{2})$, kun se käsittelee Stringejä ja $O(n log(n))$, kun se käsittelee Doubleja.
 Koodia lukemalla selviää nopeasti, että algoritmin aikakompleksisuus on $n^{2}$. Koodi sisältää for-loopin sisäisen for-loopin, joissa molemmissa käydään taulukko läpi.
-Aikakompleksisuus on harmoniassa graafisen esityksen kanssa (Worst case time complexity = $O(n^{2})$).
+Aikakompleksisuus on harmoniassa graafisen esityksen kanssa (Worst case time complexity = $O(n^{2})$.
 
 ![findMode TimexSize](Tira-02-mode_analysis.PNG)
 
